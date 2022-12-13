@@ -1,5 +1,6 @@
 # Beecrowd 
-![I0XsDRcl_400x400](https://user-images.githubusercontent.com/112733336/207357529-36007483-cb8c-4bfe-a74b-33752bbf1f8b.jpg)
+
+![beecrowd__roxoHorClean-small-PNG-1](https://user-images.githubusercontent.com/112733336/207358717-1e76ba0d-b040-4949-a1a4-073cf6095c33.png)
 
 Código dos problemas resolvidos no Beecrowd, separado por problemas:
 Iniciante;
