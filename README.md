@@ -7,7 +7,7 @@ Iniciante;
 String;   
 SQL.  
   
-Para saber mais sobre minhas tentaivas, erros e acerto, acesse minha página no Beecrowd:https://www.beecrowd.com.br/judge/pt/profile/697556    
-Meu linkedin:https://www.linkedin.com/in/beatriz-de-souza-carvalho/   
-Email de contado:beatrizdesouzacarvalho@outlook.com
+Para saber mais sobre minhas tentaivas, erros e acerto, acesse minha página no Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/697556    
+Meu linkedin: https://www.linkedin.com/in/beatriz-de-souza-carvalho/   
+Email de contado: beatrizdesouzacarvalho@outlook.com
 
